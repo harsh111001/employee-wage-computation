@@ -1,0 +1,15 @@
+C:\Users\223089249\source\repos\employee_manager\employee_manager\bin\Debug\net6.0\employee_manager.exe
+C:\Users\223089249\source\repos\employee_manager\employee_manager\bin\Debug\net6.0\employee_manager.deps.json
+C:\Users\223089249\source\repos\employee_manager\employee_manager\bin\Debug\net6.0\employee_manager.runtimeconfig.json
+C:\Users\223089249\source\repos\employee_manager\employee_manager\bin\Debug\net6.0\employee_manager.dll
+C:\Users\223089249\source\repos\employee_manager\employee_manager\bin\Debug\net6.0\employee_manager.pdb
+C:\Users\223089249\source\repos\employee_manager\employee_manager\obj\Debug\net6.0\employee_manager.csproj.AssemblyReference.cache
+C:\Users\223089249\source\repos\employee_manager\employee_manager\obj\Debug\net6.0\employee_manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\223089249\source\repos\employee_manager\employee_manager\obj\Debug\net6.0\employee_manager.AssemblyInfoInputs.cache
+C:\Users\223089249\source\repos\employee_manager\employee_manager\obj\Debug\net6.0\employee_manager.AssemblyInfo.cs
+C:\Users\223089249\source\repos\employee_manager\employee_manager\obj\Debug\net6.0\employee_manager.csproj.CoreCompileInputs.cache
+C:\Users\223089249\source\repos\employee_manager\employee_manager\obj\Debug\net6.0\employee_manager.dll
+C:\Users\223089249\source\repos\employee_manager\employee_manager\obj\Debug\net6.0\refint\employee_manager.dll
+C:\Users\223089249\source\repos\employee_manager\employee_manager\obj\Debug\net6.0\employee_manager.pdb
+C:\Users\223089249\source\repos\employee_manager\employee_manager\obj\Debug\net6.0\employee_manager.genruntimeconfig.cache
+C:\Users\223089249\source\repos\employee_manager\employee_manager\obj\Debug\net6.0\ref\employee_manager.dll
