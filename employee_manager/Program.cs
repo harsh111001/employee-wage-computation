@@ -118,6 +118,29 @@ namespace employee_manager
             Console.WriteLine($"total wage ={total_wage}");
             
         }
+        static void compute_Wage_Company(string company,int ratePerHr,int workingDays,int workingHours)
+        {
+            int empHours=0, empDays=0;
+            while (empHours < workingHours && empDays < workingHours)
+            {
+                empDays++;
+                Random random = new Random();
+                int chk = random.Next(0, 3);
+                if (chk == 1)
+                {
+                    empHours += 8;
+                }
+                else if (chk == 2)
+                {
+
+                }
+                else
+                {
+                    empHours += 4;
+                }
+            }
+            Console.WriteLine($"Total wage for employee in {company} is : {ratePerHr * empHours}");
+        }
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, this is employee manager");
@@ -127,6 +150,8 @@ namespace employee_manager
             daily_wage_incl_part_time_using_switch_case();
             monthly_wages();
             monthly_wages_criteria();
+            compute_Wage_Company("GE", 20, 20, 80);
+            compute_Wage_Company("TCS", 10, 15, 100);
 
         }
     }
